@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+graph.html
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Python
+*.pyo
+*.pyd
